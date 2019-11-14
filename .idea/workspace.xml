@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baabd658-2e59-4748-887f-1bdd396c992b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TKdZQrf3dNqQInAGv48HiV9OnW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558674161968" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="LambdaExpressions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baabd658-2e59-4748-887f-1bdd396c992b" name="Default Changelist" comment="" />
+      <created>1558596426627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558596426627</updated>
+    </task>
+    <task id="LOCAL-00001" summary="version 1.0">
+      <created>1573720051391</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573720051391</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="version 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 1.0" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="391" width="292" height="211" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1573212784221">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state x="739" y="391" width="292" height="211" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1680.1021@0.0.1680.1021" timestamp="1573212784221" />
+    <state x="464" y="108" width="743" height="800" key="CommitChangelistDialog2" timestamp="1573720049179">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state x="464" y="108" width="743" height="800" key="CommitChangelistDialog2/0.0.1680.1021@0.0.1680.1021" timestamp="1573720049179" />
+    <state x="738" y="285" width="426" height="479" key="FileChooserDialogImpl" timestamp="1573720357109">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state x="738" y="285" width="426" height="479" key="FileChooserDialogImpl/0.0.1680.1021@0.0.1680.1021" timestamp="1573720357109" />
+    <state width="1634" height="279" key="GridCell.Tab.0.bottom" timestamp="1573560646432">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1634" height="279" key="GridCell.Tab.0.bottom/0.0.1680.1021@0.0.1680.1021" timestamp="1573560646432" />
+    <state width="1634" height="279" key="GridCell.Tab.0.center" timestamp="1573560646431">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1634" height="279" key="GridCell.Tab.0.center/0.0.1680.1021@0.0.1680.1021" timestamp="1573560646431" />
+    <state width="1634" height="279" key="GridCell.Tab.0.left" timestamp="1573560646431">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1634" height="279" key="GridCell.Tab.0.left/0.0.1680.1021@0.0.1680.1021" timestamp="1573560646431" />
+    <state width="1634" height="279" key="GridCell.Tab.0.right" timestamp="1573560646431">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1634" height="279" key="GridCell.Tab.0.right/0.0.1680.1021@0.0.1680.1021" timestamp="1573560646431" />
+    <state x="726" y="361" key="com.intellij.ide.util.TipDialog" timestamp="1573546782635">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state x="726" y="361" key="com.intellij.ide.util.TipDialog/0.0.1680.1021@0.0.1680.1021" timestamp="1573546782635" />
+    <state x="366" y="251" width="714" height="770" key="new project wizard" timestamp="1573720328487">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state x="366" y="251" width="714" height="770" key="new project wizard/0.0.1680.1021@0.0.1680.1021" timestamp="1573720328487" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar:///usr/lib/jvm/jdk-13.0.1/lib/src.zip!/java.base/java/util/Collection.java</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
